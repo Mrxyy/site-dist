@@ -1,0 +1,157 @@
+{
+  "vite/modulepreload-polyfill": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "vite/preload-helper": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "../memo-ui/dist/memo-ui.es.js": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/modules/resume/List/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "plugin-vue:export-helper": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/modules/resume/List/index.vue": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/components/menu/Circle.vue?vue&type=style&index=0&lang.scss": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/components/menu/Circle.vue": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/components/json/editor.vue?vue&type=style&index=0&lang.scss": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/components/json/editor.vue": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/modules/resume/base.json": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/assets/icon.png": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/modules/resume/content.ts": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/modules/resume/index.vue?vue&type=style&index=0&lang.scss": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/modules/resume/index.vue": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/routes/index.ts": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/router.ts": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/App.vue?vue&type=style&index=0&lang.scss": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/App.vue": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/main.ts": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "../memo-ui/dist/style.css": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "src/clientEntry.ts": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "index.html": [
+    "./assets/icon.433190cb.png",
+    "./assets/jsoneditor-icons.45c98bf0.svg"
+  ],
+  "../../node_modules/.pnpm/@vue+shared@3.2.23/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+reactivity@3.2.23/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+runtime-core@3.2.23/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+runtime-dom@3.2.23/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/vue@3.2.23/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "../../node_modules/.pnpm/vue-router@4.0.12_vue@3.2.23/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "./assets/vendor.ad7eb02c.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "./assets/jsoneditor.min.4c04ba3e.js"
+  ],
+  "\u0000/Users/xiongyangyang/Desktop/open-source/node_modules/.pnpm/jsoneditor@9.5.11/node_modules/jsoneditor/dist/jsoneditor.min.js?commonjs-module": [
+    "./assets/jsoneditor.min.4c04ba3e.js"
+  ],
+  "../../node_modules/.pnpm/jsoneditor@9.5.11/node_modules/jsoneditor/dist/jsoneditor.min.js": [
+    "./assets/jsoneditor.min.4c04ba3e.js"
+  ]
+}
